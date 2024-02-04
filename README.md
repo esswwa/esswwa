@@ -1,7 +1,7 @@
 <h1 align="center">👋 Привет, я Артём</h1>
 <h3 align="center">Начинающий программист C# и Python</h3>
 
-- 🔭 В настоящее время я изучаю Django и React
+- 🔭 В настоящее время я изучаю Django и Vue (REACT GOVNO)
 
 - 🌵 Мне 19 лет
 
